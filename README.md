@@ -29,5 +29,6 @@ Image Format of the 1990s.
 
 ## License
 
-To be announced. The format itself is free for everyone to use, commercially
-or non-commercially, with no license fees.
+The specification and the header files in this repository are released under
+the [MIT License](LICENSE). The format itself is free for everyone to use,
+commercially or non-commercially, with no license fees.
